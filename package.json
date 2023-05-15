@@ -1,0 +1,9 @@
+{
+  "name": "305-wea-ico",
+  "version": "1.0.0",
+  "license": "MIT",
+   "author": "空巷一人",
+    "publishConfig": {
+    "registry": "https://registry.npmjs.org"
+  }
+}
